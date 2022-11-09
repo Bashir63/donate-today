@@ -73,3 +73,18 @@ p{
     border-bottom: 1px solid rgb(218, 217, 217);
     margin: 50px 250px;
 }
+
+.donation-plan{
+    text-align: center;
+}
+
+.donation-purpose{
+    display: flex;
+   
+}
+
+.donation-description{
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
