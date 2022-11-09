@@ -1,3 +1,75 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+.headings{
+    text-align: center;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: 1300px;
+    height: 600px;
+    margin-left: 20px;
+}
+
+h1{
+    font-size: 65px;
+    color: white;
+    padding-top: 110px;
+    margin-bottom: 0px;
+}
+#message{
+    color: white;
+    padding-bottom: 30px;
+    margin-top: 0px;
+    font-size: 20px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+}
+
+.donated-amount{
+    text-align: center;
+    margin-top: 140px;
+}
+h2{
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+p{
+    color: grey;
+}
+
+.amount-details{
+    display: flex;
+    margin-left: 300px;
+}
+.taka{
+    padding-left: 90px;
+    margin-top: 60px;
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(114, 109, 109);
+}
+
+.selected-amount{
+    background-color: rgb(229, 166, 155);
+    border:2px solid red;
+    color: red;
+    padding: 40px 20px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    margin-top: 16px;
+   
+   
+}
+
+#amount-to-donate{
+    border-bottom: 1px solid rgb(218, 217, 217);
+    margin: 50px 250px;
+}
